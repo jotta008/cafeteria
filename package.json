@@ -1,3 +1,6 @@
 {
   "autor": "j"
+  "scripts": {
+    "start": "nodejs start",
+  },
 }
